@@ -1,0 +1,7 @@
+/.gradle/
+/build/
+/.idea/
+/test/
+/out/
+/.run/
+/debug-sandbox
